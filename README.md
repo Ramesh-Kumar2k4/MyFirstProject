@@ -1,2 +1,2 @@
 # MyFirstProject
-This is my first Gir Repository
+This is my first Git Repository
